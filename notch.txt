@@ -1,0 +1,41 @@
+ Directory of L:\Labs\Beynnon\General\Bruce\BeynnonMacBackUpFile4Aug2022\MatLab Programs for analysis of knee joint geometry and ACL?CACL injury
+02/20/2019  10:28 AM             9,271 femur_icng_notchaclmeasures.m
+
+ Directory of L:\Labs\Beynnon\General\Lap Top 1\MatLab Programs for analysis of knee joint geometry and ACL?CACL injury
+02/20/2019  10:28 AM             9,271 femur_icng_notchaclmeasures.m
+
+ Directory of L:\Labs\Beynnon\General\Knee MRI Research\Risk Factor Cohort\RF Notch-ACL Size\Notch-ACL_Study_27June2013\Matlab_Notch-ACL_Accuracy-Proccesing
+06/04/2013  04:34 PM             9,396 femur_icng2.m
+06/17/2013  04:21 PM             9,320 femur_icng_accuracy.m 
+06/04/2013  04:34 PM             5,092 icnotch_rdg3.m
+06/07/2013  03:38 PM             5,472 icnotch_rdg4.m
+
+ Directory of L:\Labs\Beynnon\General\Knee MRI Research\Risk Factor Cohort\RF Notch-ACL Size\Notch-ACL_Study_27June2013\Matlab_Notch-ACL_Reliability Processing
+06/27/2013  04:36 PM             9,393 femur_icng2.m
+06/04/2013  04:34 PM             5,092 icnotch_rdg3.m
+06/07/2013  03:38 PM             5,472 icnotch_rdg4.m
+
+ Directory of L:\Labs\Beynnon\General\Knee MRI Research\Risk Factor Cohort\RF Notch-ACL Size\Notch-ACL_Study_27June2013\ROI Data\ROI Data_Notch Ridge_AS DS\TRIAL 3 ? FULL SAMPLE - 533
+03/15/2013  03:51 PM             5,206 icnotch_rdg3.m
+
+ Directory of L:\Labs\Beynnon\General\Knee MRI Research\Risk Factor Cohort\Segmented Data Backup\Femoral Notch Segmented Data\Notch Ridge ROIs\TRIAL 3 ? FULL SAMPLE - 533
+03/15/2013  03:51 PM             5,206 icnotch_rdg3.m
+
+ Directory of L:\Labs\Beynnon\General\Knee MRI Research\Risk Factor Cohort\RF Notch-ACL Size\Notch-ACL_Study_27June2013\ROI Data\ROI Data_Notch Ridge_AS DS\TRIAL 2 ROI'S
+04/09/2012  02:06 PM             3,484 icnotch_rdg1.m
+04/11/2012  11:13 AM             4,857 icnotch_rdg3.m
+
+ Directory of L:\Labs\Beynnon\General\Knee MRI Research\Risk Factor Cohort\Segmented Data Backup\Femoral Notch Segmented Data\Notch Ridge ROIs\TRIAL 2 ROI'S
+04/09/2012  02:06 PM             3,484 icnotch_rdg1.m
+04/11/2012  11:13 AM             4,857 icnotch_rdg3.m
+
+ Directory of L:\Labs\Beynnon\General\Knee MRI Research\Risk Factor Cohort\RF Notch-ACL Size\Notch-ACL_Study_27June2013\ROI Data\ROI Data_Notch Ridge_AS DS\TRIAL 1 ROI'S
+04/09/2012  02:06 PM             3,484 icnotch_rdg1.m
+04/09/2012  02:46 PM             4,856 icnotch_rdg3.m
+
+ Directory of L:\Labs\Beynnon\General\Knee MRI Research\Risk Factor Cohort\Segmented Data Backup\Femoral Notch Segmented Data\Notch Ridge ROIs\TRIAL 1 ROI'S
+04/09/2012  02:06 PM             3,484 icnotch_rdg1.m
+04/09/2012  02:46 PM             4,856 icnotch_rdg3.m
+
+ Directory of L:\Labs\Beynnon\General\Stafford 411 Computer  Backups\Knee MRI Surfaces\Risk_Fac\Notch
+04/09/2012  01:27 PM             3,960 icnotch_rdg3.m
